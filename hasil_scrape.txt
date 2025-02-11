@@ -1,0 +1,23 @@
+Heading Utama: Andy Thoriq
+H1: Andy Thoriq
+H2: Programmer, Mahasiswa IT
+H3: Pengalaman
+H3: Keterampilan
+H3: Hubungi Saya
+Paragraf 1 dalam Tentang: 
+              Halo, saya adalah seorang Programmer dan Mahasiswa IT. 
+              Saya memiliki minat dalam pengembangan web/mobile dan pemrograman.
+
+Paragraf 2 dalam Tentang: 
+              Saya adalah seorang Software Engineer dengan pengalaman lebih dari tiga tahun dalam bidang IT.
+              Selama periode tersebut, saya telah terlibat dalam berbagai proyek, PKL, kompetisi,
+              dan pelatihan.
+              Saya telah mengasah keterampilan saya dalam PHP, JavaScript, React, Laravel, MySQL, Git/GitHub, dan Python.
+
+Link Navigasi: #tentang - Tentang
+Link Navigasi: #pengalaman - Pengalaman
+Link Navigasi: #keterampilan - Keterampilan
+Link Navigasi: #kontak - Kontak
+Input Form: name Tipe: text
+Input Form: email Tipe: email
+Input Form: None Tipe: submit
